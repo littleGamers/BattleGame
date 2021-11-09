@@ -21,25 +21,25 @@ move with a,s,d,w keys and space to shoot laser.
 
 ## Components
 
-**GameOverOnTrigger2D -** For game over - changed to end after lives are over [Source Code.](GameOverOnTrigger2D.cs)
+**GameOverOnTrigger2D -** For game over - changed to end after lives are over [Source Code.](Assets/GameOverOnTrigger2D.cs)
 <br />
 
-**HitPoints -** Added decrementHit function to decrease the live of a player [Source Code.](HitPoints.cs)
+**HitPoints -** Added decrementHit function to decrease the live of a player [Source Code.](Assets/HitPoints.cs)
 <br />
 
-**KeyboardSpawner -** Changed rotarion and position of new object [Source Code.](KeyboardSpawner.cs)
+**KeyboardSpawner -** Changed rotarion and position of new object [Source Code.](Assets/KeyboardSpawner.cs)
 <br />
 
-**LaserHit -** When an object hit laser use decrementHit function and destroy the object [Source Code.](LaserHit.cs)
+**LaserHit -** When an object hit laser use decrementHit function and destroy the object [Source Code.](Assets/LaserHit.cs)
 <br />
 
-**KeyboardSpawner -** Changed rotarion and position of new object [Source Code.](KeyboardSpawner.cs)
+**KeyboardSpawner -** Changed rotarion and position of new object [Source Code.](Assets/KeyboardSpawner.cs)
 <br />
 
-**Mover -** This component moves its object in a fixed velocity [Source Code.](Mover.cs)
+**Mover -** This component moves its object in a fixed velocity [Source Code.](Assets/Mover.cs)
 <br />
 
-**Walk -** By input controll the player with keyboard buttons [Source Code.](Walk.cs)
+**Walk -** By input controll the player with keyboard buttons [Source Code.](Assets/Walk.cs)
 
 
 <br />
