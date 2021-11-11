@@ -33,9 +33,6 @@ move with a,s,d,w keys and space to shoot laser.
 **LaserHit -** When an object hit laser use decrementHit function and destroy the object [Source Code.](Assets/LaserHit.cs)
 <br />
 
-**KeyboardSpawner -** Changed rotarion and position of new object [Source Code.](Assets/KeyboardSpawner.cs)
-<br />
-
 **Mover -** This component moves its object in a fixed velocity [Source Code.](Assets/Mover.cs)
 <br />
 
